@@ -1,0 +1,37 @@
+
+body{
+    margin: auto;
+    width: 60%;
+    border: 2px solid black;
+    padding: 30px;
+}
+.title-section{
+    text-align: center;
+
+}
+.contact-info{
+    display: flex;
+    justify-content: center;
+}
+.contact-info p{
+    margin: 0 10px 0;
+}
+.prof-summary{
+
+}
+.skill-section{
+
+}
+.experience{
+
+}
+.experience div, .education div{
+    margin-bottom: 20px;
+} 
+.education{
+
+}
+.footer{
+    padding: 30px;
+    text-align: center;
+}
